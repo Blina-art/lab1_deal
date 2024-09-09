@@ -1,7 +1,7 @@
 /* Test file for introduction task.
  * @file
  * @date 2021-09-04
- * @author Anonymous
+ * @author Ellina Borisova
  */
 
 #include <regex>
